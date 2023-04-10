@@ -1,1 +1,1 @@
-{"version":"1.0", "notes":"First version Have a nice day!"}
+{"version":"1.0", "notes":"First version have a nice day !"}
