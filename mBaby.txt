@@ -1,1 +1,1 @@
-{"version":"1.3", "notes":"Stroller bug fixed"}
+{"version":"1.2", "notes":"Stroller bug fixed"}
